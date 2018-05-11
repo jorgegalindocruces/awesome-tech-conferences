@@ -11,9 +11,11 @@
 - :star: (November 8) [dotCSS 2018](https://www.dotcss.io) (Paris, France) - The largest CSS conference in Europe
 
 ## October 2018
+- :star: (Oct 25-26) [Lambda World Cadiz](https://cadiz.lambda.world) (Cadiz, Spain) - One of the largest Functional programming event in Europe
 - :star: (Oct 27) [Columbus Code Camp](https://columbuscodecamp.com) (Columbus, OH, USA) - A technology-agnostic community event where software developers learn from their peers.
 
 ## September 2018
+- :star: (September 17-18) [Lambda World Seattle](http://seattle.lambda.world/) (Seattle, WA) - A Functional Programming event, with talks about Scala, Kotlin, Haskell, Clojure and many other languages that share the same paradigm.
 - :star: (September 19-22) [Tapia 2018](http://tapiaconference.org/) (Orlando, FL) - The Tapia conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.
 - :star: (September 26–28) [GHC-18](https://ghc.anitab.org/) (Houston, TX) - Grace Hopper Celebration is the world's largest gathering of women technologists!
 
